@@ -439,4 +439,4 @@ ParallaxScrollView.defaultProps = {
 	outputScaleValue: 5,
 }
 
-module.exports = ParallaxScrollView
+export default ParallaxScrollView;
